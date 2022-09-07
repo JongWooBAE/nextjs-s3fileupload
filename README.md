@@ -34,7 +34,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 그리고 .env에다가 아래와 같은 형식으로 추가해야 한다.
+```bash
 S3_UPLOAD_KEY=AAAAAAAAAAAAAA
 S3_UPLOAD_SECRET=BBBBBBBBBBBBB
 S3_UPLOAD_BUCKET=bucket-name
 S3_UPLOAD_REGION=ap-northeast-2
+```
