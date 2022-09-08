@@ -9,8 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "aws-sdk": "2.1211.0",
+    "axios": "0.27.2",
     "next": "12.2.5",
-    "next-s3-upload": "0.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
